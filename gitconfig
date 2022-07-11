@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aissa.youssef45@gmail.com
+	name = Youssef Aissaoui
